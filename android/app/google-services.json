@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739613020656",
+    "project_id": "easy-money-45efc",
+    "storage_bucket": "easy-money-45efc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739613020656:android:ab2bc5772f0068109dcd35",
+        "android_client_info": {
+          "package_name": "com.example.easy_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739613020656-hgvp1l01ndg57tul991u4q5f4ai1c9e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easy_money",
+            "certificate_hash": "4ddf331f169bc32fdf11178206b2fa489e4d47f4"
+          }
+        },
+        {
+          "client_id": "739613020656-9pfu9p56nen9dl98k71oqri78s49cmti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzBC6V9p1SVKzJVOkPz90Qd8gJaLs69g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739613020656-9pfu9p56nen9dl98k71oqri78s49cmti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
